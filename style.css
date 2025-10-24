@@ -1,0 +1,18 @@
+button:active {
+    transform: translateY(1px); /* Efecto de "presionado" */
+}
+
+
+#message {
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    min-height: 20px;
+    font-size: 1.2em;
+}
+
+.correct {
+    color: white;
+    background-color: #28a745; /* Verde para aciertos */
+}
